@@ -100,3 +100,13 @@ border: solid 1px white;
 height: 500px;
 width: 300pz;    
 }
+.section-nav{
+display: flex;    
+}
+.nav-2{
+    background-color: #344156; 
+   
+}
+.nav-2 ul{
+padding: 20px;    
+}
